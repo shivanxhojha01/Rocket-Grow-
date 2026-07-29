@@ -49,7 +49,7 @@ const GIFT_CARDS = [
     name: "Overwatch 2", logo: "🎯", delivery: "⚡ Instant", category: "gaming",
     denoms: [
       { id: "ow2-200",  label: "200 Coins",  inr: "₹230", usdt: "$2.30", pkr: "PKR 644",  msg: "Hi! I want to sell 200 Overwatch 2 Coins." },
-      { id: "ow2-1000", label: "1000 Coins", inr: "₹620", usdt: "$6.20",   pkr: "PKR 1736", msg: "Hi! I want to sell 1000 Overwatch 2 Coins." }
+      { id: "ow2-1000", label: "1000 Coins", inr: "₹570", usdt: "$5.70",   pkr: "PKR 1596", msg: "Hi! I want to sell 1000 Overwatch 2 Coins." }
     ]
   },
   {
