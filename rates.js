@@ -42,7 +42,7 @@ const GIFT_CARDS = [
     name: "League of Legends (RP)", logo: "⚔️", delivery: "⚡ Instant", category: "gaming",
     denoms: [
       { id: "lol-100", label: "100 RP", inr: "₹150", usdt: "$1.60", pkr: "PKR 448",  msg: "Hi! I want to sell a 100 RP League of Legends gift card." },
-      { id: "lol-575", label: "575 RP", inr: "₹360", usdt: "$3.6", pkr: "PKR 1000", msg: "Hi! I want to sell a 575 RP League of Legends gift card." }
+      { id: "lol-575", label: "575 RP", inr: "₹330", usdt: "$3.3", pkr: "PKR 1000", msg: "Hi! I want to sell a 575 RP League of Legends gift card." }
     ]
   },
   {
